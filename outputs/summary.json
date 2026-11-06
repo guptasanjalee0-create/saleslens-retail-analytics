@@ -1,0 +1,25 @@
+{
+  "source": "SYNTHETIC DEMO SAMPLE (not original UCI observations)",
+  "quality": {
+    "original_rows": 1149,
+    "duplicate_rows_removed": 1,
+    "cancellation_rows_excluded": 35,
+    "missing_customer_rows_in_source": 73,
+    "invalid_date_rows_in_source": 0,
+    "invalid_price_rows_in_source": 0,
+    "invalid_quantity_rows_in_source": 35,
+    "clean_sales_rows": 1113,
+    "unique_invoices": 361,
+    "unique_products": 20,
+    "unique_customers_with_id": 207
+  },
+  "summary": {
+    "total_revenue_gbp": 27232.8,
+    "total_units_sold": 7228,
+    "invoices": 361,
+    "products": 20,
+    "customers_with_id": 207,
+    "countries": 7,
+    "average_order_value_gbp": 75.44
+  }
+}
